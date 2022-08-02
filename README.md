@@ -6,17 +6,8 @@
 - #### 👯 I’m looking to collaborate on Hibernate/Spring
 - #### 🤔 I’m looking for help with Angular/React/Node.js
 
-## PortFolio Link : `https://amantiwari8861.github.io/` [Here](https://amantiwari8861.github.io/)
+## PortFolio Link : `https://JoyRahul2606.github.io/` [Here](https://JoyRahul2606.github.io/)
 
-
-```java    
-   while (noSuccess)
-   {
-       tryAgain();
-       if(Dead)
-       break;
-   }
-   ```
    ### Languages and Tools:
 
 [<code>
@@ -77,14 +68,14 @@
 
 ## 📫 How to reach me : Contact / Social Media
 
-*Get the latest News about Web Development, Open Source, Tooling, Server & Security*
+*Get the latest News about  data analyst, , Power BI, Server & Security*
 
-<a href="https://linkedin.com/in/amantiwari8861" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amantiwari8861" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/14612285/aman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14612285/aman" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/amantiwari8861" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amantiwari8861" height="50" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/Joy Rahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="JoyRahul2606" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/14612285/joy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14612285/joy" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/joy__rahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joy__rahul" height="50" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://medium.com/@amantiwari8861" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amantiwari8861" height="50" width="40" /></a></br></br>
-[![Whatsapp](https://github.com/amantiwari8861/C_Batch_11_to_12/blob/master/whatsapp.png)](https://wa.me/919891062743/)
+[![Whatsapp](https://github.com/amantiwari8861/C_Batch_11_to_12/blob/master/whatsapp.png)](https://wa.me/919990677126/)
 [![Facebook](https://github.frapsoft.com/social/facebook.png)](https://www.facebook.com/amantiwari8861/)
-<a href="mailto:amantiwari8861@gmail.com"><img src="https://github.com/amantiwari8861/C_Batch_11_to_12/blob/master/mail.png"></a>&nbsp;&nbsp;
-[![Twitter](https://github.frapsoft.com/social/twitter.png)](https://twitter.com/@AmanTiw61298258/)
+<a href="mailto:joyrahul100@gmail.com"><img src="https://github.com/amantiwari8861/C_Batch_11_to_12/blob/master/mail.png"></a>&nbsp;&nbsp;
+[![Twitter](https://github.frapsoft.com/social/twitter.png)](https://twitter.com/@JoyRahul06/)
 <!-- [![Gitter](https://github.frapsoft.com/social/gitter.png)](https://gitter.im/GNIITwala/community/) -->
