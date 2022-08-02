@@ -21,6 +21,7 @@
 <a href="https://linkedin.com/in/joy rahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joy rahul" height="30" width="40" /></a>
 <a href="https://fb.com/joy.rahul.33483" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joy.rahul.33483" height="30" width="40" /></a>
 <a href="https://instagram.com/joy__rahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joy__rahul" height="30" width="40" /></a>
+[![Whatsapp](https://github.com/amantiwari8861/C_Batch_11_to_12/blob/master/whatsapp.png)](https://wa.me/919891062743/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
