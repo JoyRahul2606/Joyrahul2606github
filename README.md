@@ -20,7 +20,6 @@
 <a href="https://twitter.com/joyrahul06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joyrahul06" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/joyrahul2606" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joyrahul2606" height="30" width="40" /></a>
 <a href="https://fb.com/joy.rahul.33483" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joy.rahul.33483" height="30" width="40" /></a>
-<a href="https://medium.com/@amantiwari8861" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amantiwari8861" height="50" width="40" /></a></br></br>
 <a href="https://instagram.com/joy__rahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joy__rahul" height="30" width="40" /></a>
 </p>
 
