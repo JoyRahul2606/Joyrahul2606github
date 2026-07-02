@@ -16,7 +16,7 @@
 
 ### 🧑‍💼 About Me
 
-Results-driven **Analytics Manager** with 5+ years building end-to-end BI ecosystems, automating multi-source data pipelines, and delivering insights that directly impact revenue and operational efficiency. Currently leading a team of **8 analysts across 80+ client accounts** at a top digital marketing agency; previously owned analytics for a **₹500Cr+ logistics operation**. Skilled in statistical methods, dashboarding, and collaborating directly with CXO-level stakeholders to turn raw data into strategy.
+Results-driven **Analytics Manager** with 6+ years building end-to-end BI ecosystems, automating multi-source data pipelines, and delivering insights that directly impact revenue and operational efficiency. Currently leading a team of **8 analysts across 80+ client accounts** at a top digital marketing agency; previously owned analytics for a **₹500Cr+ logistics operation**. Skilled in statistical methods, dashboarding, and collaborating directly with CXO-level stakeholders to turn raw data into strategy.
 
 - 🔭 Currently working as **Manager – Data Analytics** @ Ethinos Digital Marketing Pvt. Ltd.
 - 🏢 Past: **Senior Data Analyst** @ AVG Logistics Limited | **Data Analyst** @ Xapotech System Pvt. Ltd.
