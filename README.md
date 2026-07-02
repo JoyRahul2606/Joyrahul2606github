@@ -2,7 +2,7 @@
 <h3 align="center">Analytics Manager | Business Intelligence | Data & Web Analytics</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1F3864&center=true&vCenter=true&width=650&lines=5%2B+Years+in+Data+Analytics+%26+BI;Power+BI+%7C+SQL+Server+%7C+DAX+%7C+Data+Modeling;Turning+Complex+Data+into+Business+Growth;Leading+Analytics+for+80%2B+Client+Accounts" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=Analytics+Manager+%7C+Business+Intelligence;Power+BI+%7C+SQL+Server+%7C+Python+%7C+GA4;Turning+Complex+Data+into+Business+Growth;AI+Automation+%7C+Web+Analytics+%7C+Data+Engineering" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -130,12 +130,6 @@ Sep 2020 – Feb 2023    Data Analyst                    Xapotech System Pvt. Lt
 <a href="https://twitter.com/joyrahul06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joyrahul06" height="32" width="42" /></a>
 <a href="https://fb.com/joy.rahul.33483" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joy.rahul.33483" height="32" width="42" /></a>
 <a href="https://instagram.com/joy__rahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joy__rahul" height="32" width="42" /></a>
-<a href="mailto:joyrahul100@gmail.com" target="_blank">
-  <img align="center"
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
-       alt="joyrahul100@gmail.com"
-       height="32"
-       width="42" />
 </a>
 </p>
 
